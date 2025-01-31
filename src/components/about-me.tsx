@@ -91,6 +91,9 @@ export default function AboutMe() {
                             <p>
                                 2023年5月:Oracle認定JavaプログラマSE Bronze
                             </p>
+                            <p>
+                                2024年12月:応用情報技術者試験
+                            </p>
                         </div>
 
                         <div className="flex justify-end pt-8">
